@@ -1,0 +1,29 @@
+Shared Dependencies:
+
+1. `src/index.js`: None
+2. `src/App.js`: None
+3. `src/components/Navigation.js`: None
+4. `src/components/GamePage.js`: None
+5. `src/components/OtherElements.js`: None
+6. `src/styles.css`: None
+7. `server.js`: None
+8. `routes/auth.js`: None
+9. `routes/games.js`: None
+10. `routes/bets.js`: None
+11. `models/User.js`: None
+12. `models/Game.js`: None
+13. `models/Bet.js`: None
+14. `client/src/components/GamePage.js`: None
+15. `client/src/components/Dashboard.js`: None
+16. `client/src/components/Account.js`: None
+17. `client/src/components/BettingHistory.js`: None
+18. `client/src/components/Payment.js`: None
+19. `client/src/components/Recommendations.js`: None
+20. `client/src/components/SocialSharing.js`: None
+21. `client/src/components/LiveBetting.js`: None
+22. `client/src/components/VRAR.js`: None
+23. `client/src/components/BlockchainIntegration.js`: None
+24. `client/src/components/Gamification.js`: None
+25. `client/src/components/Chatbots.js`: None
+26. `client/src/components/PredictiveAnalytics.js`: None
+27. `client/src/components/Integration.js`: None
